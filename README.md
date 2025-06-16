@@ -5,9 +5,9 @@
 
 ## 🛠 Tech Stack
 
-- 💻 JavaScript, TypeScript, Python, C++
-- ⚛️ React, React Native, Electron
-- 🛠 Django, Arduino, SQL
+- 💻 **Languages**: JavaScript, TypeScript, Python, C++, MIPS Assembly
+- ⚛️ **Frontend**: React, Next.js, React Native, Electron
+- 🛠 **Backend/Systems**: Django, SQL, Arduino, PIC18
 
 ---
 
